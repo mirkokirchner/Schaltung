@@ -1,0 +1,406 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o (exit)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-impure.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-init.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o (__libc_init_array)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-memset.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o (memset)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-atexit.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-fini.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__atexit.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-atexit.o) (__register_exitproc)
+c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libnosys.a(_exit.o)
+                              c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SRAM             0x402f0400         0x0000fc00
+L3OCMC0          0x40300000         0x00010000
+M3SHUMEM         0x44d00000         0x00004000
+M3SHDMEM         0x44d80000         0x00002000
+DDR0             0x80000000         0x40000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crti.o
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o
+                0x0001c000                STACKSIZE = 0x1c000
+                0x00000400                HEAPSIZE = 0x400
+LOAD ./main.o
+LOAD ./startup_ARMCA8.o
+
+.rsthand        0x80000000       0x70
+                0x80000000                . = ALIGN (0x10000)
+ *(.isr_vector)
+ .isr_vector    0x80000000       0x50 ./startup_ARMCA8.o
+                0x80000000                __isr_vector
+                0x8000004e                DEF_IRQHandler
+ *startup_ARMCA8.o(.text)
+ .text          0x80000050       0x20 ./startup_ARMCA8.o
+                0x80000050                Entry
+                0x80000070                . = ALIGN (0x4)
+
+.text           0x80000070      0x650
+ *(.text*)
+ .text          0x80000070        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crti.o
+ .text          0x80000070       0x70 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+ .text          0x800000e0      0x114 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o
+                0x800000e0                _start
+                0x800000e0                _mainCRTStartup
+ .text          0x800001f4        0x8 ./main.o
+                0x800001f4                main
+ .text          0x800001fc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o)
+ .text.exit     0x800001fc       0x34 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o)
+                0x800001fc                exit
+ .text          0x80000230        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-impure.o)
+ .text          0x80000230        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x80000230       0x88 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-init.o)
+                0x80000230                __libc_init_array
+ .text          0x800002b8        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-memset.o)
+ .text.memset   0x800002b8      0x11c c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-memset.o)
+                0x800002b8                memset
+ .text          0x800003d4        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x800003d4       0x28 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x800003fc      0x138 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+                0x800003fc                __call_exitprocs
+ .text          0x80000534        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-atexit.o)
+ .text.atexit   0x80000534       0x20 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-atexit.o)
+                0x80000534                atexit
+ .text          0x80000554        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x80000554       0x44 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-fini.o)
+                0x80000554                __libc_fini_array
+ .text          0x80000598        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x80000598        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x80000598                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x8000059c        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x8000059c                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x800005a0        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x800005a0                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x800005a4        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x800005a4                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x800005a8        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x800005a8                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x800005ac        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x800005ac                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x800005b0        0x8 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x800005b0                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x800005b8        0x8 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x800005b8                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x800005c0        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x800005c0                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x800005c4        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x800005c4                __retarget_lock_release_recursive
+ .text          0x800005c8        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x800005c8       0xbc c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__atexit.o)
+                0x800005c8                __register_exitproc
+ .text          0x80000684        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libnosys.a(_exit.o)
+ .text._exit    0x80000684        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libnosys.a(_exit.o)
+                0x80000684                _exit
+ .text          0x80000688        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtend.o
+ .text          0x80000688        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtn.o
+ *(.init)
+ .init          0x80000688        0xc c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crti.o
+                0x80000688                _init
+ .init          0x80000694        0xc c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtn.o
+ *(.fini)
+ .fini          0x800006a0        0xc c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crti.o
+                0x800006a0                _fini
+ .fini          0x800006ac        0xc c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x800006b8        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-impure.o)
+                0x800006b8                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x800006bc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+ .eh_frame      0x800006bc        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtend.o
+
+.glue_7         0x800006c0        0x0
+ .glue_7        0x800006c0        0x0 linker stubs
+
+.glue_7t        0x800006c0        0x0
+ .glue_7t       0x800006c0        0x0 linker stubs
+
+.vfp11_veneer   0x800006c0        0x0
+ .vfp11_veneer  0x800006c0        0x0 linker stubs
+
+.v4_bx          0x800006c0        0x0
+ .v4_bx         0x800006c0        0x0 linker stubs
+
+.iplt           0x800006c0        0x0
+ .iplt          0x800006c0        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+
+.ARM.extab      0x800006c0        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x800006c0        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o
+                0x800006c0                __exidx_start = .
+
+.ARM.exidx      0x800006c0        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x800006c0        0x8 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o
+                0x800006c8                __exidx_end = .
+
+.rel.dyn        0x800006c8        0x0
+ .rel.iplt      0x800006c8        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+
+.data           0x800006c8      0x440
+                0x800006c8                . = ALIGN (0x4)
+                0x800006c8                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x800006c8        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crti.o
+ .data          0x800006c8        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+                0x800006c8                __dso_handle
+ .data          0x800006cc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o
+ .data          0x800006cc        0x0 ./main.o
+ .data          0x800006cc        0x0 ./startup_ARMCA8.o
+ .data          0x800006cc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o)
+ .data          0x800006cc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x800006cc        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-impure.o)
+                0x800006cc                _impure_ptr
+ .data.impure_data
+                0x800006d0      0x428 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-impure.o)
+ .data          0x80000af8        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-init.o)
+ .data          0x80000af8        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-memset.o)
+ .data          0x80000af8        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+ .data.__atexit_recursive_mutex
+                0x80000af8        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+                0x80000af8                __atexit_recursive_mutex
+ .data          0x80000afc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-atexit.o)
+ .data          0x80000afc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-fini.o)
+ .data          0x80000afc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+ .data          0x80000afc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__atexit.o)
+ .data          0x80000afc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libnosys.a(_exit.o)
+ .data          0x80000afc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtend.o
+ .data          0x80000afc        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtn.o
+                0x80000afc                . = ALIGN (0x4)
+                0x80000afc                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x80000afc                PROVIDE (__preinit_array_end = .)
+                0x80000afc                . = ALIGN (0x4)
+                0x80000afc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x80000afc        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x80000b00        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+                0x80000b04                PROVIDE (__init_array_end = .)
+                0x80000b04                . = ALIGN (0x4)
+                0x80000b04                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x80000b04        0x4 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+                0x80000b08                PROVIDE (__fini_array_end = .)
+                0x80000b08                . = ALIGN (0x4)
+                0x80000b08                __data_end__ = .
+
+.igot.plt       0x80000b08        0x0
+ .igot.plt      0x80000b08        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+
+.bss            0x80000b08       0x3d
+                0x80000b08                . = ALIGN (0x4)
+                0x80000b08                __bss_start__ = .
+ *(.bss*)
+ .bss           0x80000b08        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crti.o
+ .bss           0x80000b08       0x1c c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o
+ .bss           0x80000b24        0x0 ./main.o
+ .bss           0x80000b24        0x0 ./startup_ARMCA8.o
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-impure.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-init.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-memset.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-atexit.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-fini.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__atexit.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libnosys.a(_exit.o)
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtend.o
+ .bss           0x80000b24        0x0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtn.o
+ *(COMMON)
+ COMMON         0x80000b24       0x21 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+                0x80000b24                __lock___atexit_recursive_mutex
+                0x80000b28                __lock___arc4random_mutex
+                0x80000b2c                __lock___env_recursive_mutex
+                0x80000b30                __lock___sinit_recursive_mutex
+                0x80000b34                __lock___malloc_recursive_mutex
+                0x80000b38                __lock___at_quick_exit_mutex
+                0x80000b3c                __lock___dd_hash_mutex
+                0x80000b40                __lock___tz_mutex
+                0x80000b44                __lock___sfp_recursive_mutex
+                0x80000b45                __bss_end__ = .
+
+.heap           0x80000b50      0x400
+ FILL mask 0xdeadbeef
+                0x80000b50                . = ALIGN (0x4)
+                0x80000b50                __end__ = .
+                0x80000b50                end = __end__
+                0x80000b50                __HeapBase = __end__
+ *(.heap*)
+ .heap          0x80000b50        0x0 ./startup_ARMCA8.o
+                0x80000f50                . = (. + HEAPSIZE)
+ *fill*         0x80000b50      0x400 deadbeef
+                0x80000f50                __HeapLimit = .
+
+.stack          0x80000f50    0x1c000
+ FILL mask 0xbad0bad0
+                0x80000f50                . = ALIGN (0x4)
+                0x80000f50                __StackLimit = .
+ *(.stack*)
+ .stack         0x80000f50        0x0 ./startup_ARMCA8.o
+                0x8001cf50                . = (. + STACKSIZE)
+ *fill*         0x80000f50    0x1c000 bad0bad0
+                0x8001cf50                __StackTop = .
+                0x8001cf50                __StackBase = .
+                0x8001cf50                PROVIDE (__stack = __StackTop)
+START GROUP
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1\libgcc.a
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1\libgcc.a
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libc.a
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libnosys.a
+END GROUP
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtend.o
+LOAD c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtn.o
+OUTPUT(Schaltung.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x1c c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crti.o
+ .ARM.attributes
+                0x0000001c       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtbegin.o
+ .ARM.attributes
+                0x00000046       0x1a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/crt0.o
+ .ARM.attributes
+                0x00000060       0x2f ./main.o
+ .ARM.attributes
+                0x0000008f       0x1d ./startup_ARMCA8.o
+ .ARM.attributes
+                0x000000ac       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000d6       0x30 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000106       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000130       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000015a       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000184       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000001ae       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000001d8       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000202       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000022c       0x2a c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000256       0x30 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtend.o
+ .ARM.attributes
+                0x00000286       0x1c c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/crtn.o
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./main.o
+                                 0x7a (size before relaxing)
+
+.debug_info     0x00000000       0x67
+ .debug_info    0x00000000       0x45 ./main.o
+ .debug_info    0x00000045       0x22 ./startup_ARMCA8.o
+
+.debug_abbrev   0x00000000       0x4a
+ .debug_abbrev  0x00000000       0x38 ./main.o
+ .debug_abbrev  0x00000038       0x12 ./startup_ARMCA8.o
+
+.debug_aranges  0x00000000       0x48
+ .debug_aranges
+                0x00000000       0x20 ./main.o
+ .debug_aranges
+                0x00000020       0x28 ./startup_ARMCA8.o
+
+.debug_line     0x00000000       0xb1
+ .debug_line    0x00000000       0x40 ./main.o
+ .debug_line    0x00000040       0x71 ./startup_ARMCA8.o
+
+.debug_str      0x00000000      0x115
+ .debug_str     0x00000000       0xf3 ./main.o
+ .debug_str     0x000000f3       0x22 ./startup_ARMCA8.o
+                                 0x5b (size before relaxing)
+
+.debug_frame    0x00000000      0x2a0
+ .debug_frame   0x00000000       0x20 ./main.o
+ .debug_frame   0x00000020       0x28 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000048       0x34 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-init.o)
+ .debug_frame   0x0000007c       0x50 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-memset.o)
+ .debug_frame   0x000000cc       0x68 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000134       0x2c c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000160       0x34 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000194       0xb0 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-lock.o)
+ .debug_frame   0x00000244       0x3c c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000280       0x20 c:/ti/ccs1120/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib\libnosys.a(_exit.o)
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 ./startup_ARMCA8.o
